@@ -1,0 +1,37 @@
+body{
+    display: flex;
+    margin-left: 500px;
+    background-color: #007065;
+}
+.tree1{
+    position: absolute;
+    height: 0px;
+    width: 0px;
+    border: 170px solid;
+    border-color: transparent;
+    border-bottom-color: #00a79d;
+    top: 240px ;
+
+}
+
+.tree2{
+    position: absolute;
+    height: 0px;
+    width: 0px;
+    border: 170px solid;
+    border-color: transparent;
+    border-bottom-color: #f5c181;
+    margin-top: 0;
+    top: 125px;
+
+}
+.tree3{
+    position: absolute;
+    height: 0px;
+    width: 0px;
+    border: 170px solid;
+    border-color: transparent;
+    border-bottom-color: #ffeecf;
+    top: 10px;
+
+}
